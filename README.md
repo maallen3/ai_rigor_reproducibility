@@ -22,7 +22,7 @@ Sources:
 
 ## II. Ask an AI Assistant for Directions
 
-1. Go to [DeepAI Code Chat](https://deepai.org/chat/ai-code).
+1. Go to [DeepAI Code Chat](https://deepai.org/chat/ai-code) or your favorite chat bot. (All CU students have chatgpt for free.) 
 
 2. Enter the following prompt:
 
