@@ -1,6 +1,6 @@
 # AI Rigor and Reproducibility
 
-If you want to share what you know, add your sources here:
+If you want to share what you know and where you learned it, add your sources here:
 https://docs.google.com/spreadsheets/d/12bCbFJhs6xHFkpLjGBL1d-w7NDZ5C6EDzlGOBZ5WwLg/edit?gid=0#gid=0
 
 
