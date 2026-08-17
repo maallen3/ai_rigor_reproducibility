@@ -3,6 +3,9 @@
 If you want to share what you know and where you learned it, add your sources here:
 https://docs.google.com/spreadsheets/d/12bCbFJhs6xHFkpLjGBL1d-w7NDZ5C6EDzlGOBZ5WwLg/edit?gid=0#gid=0
 
+Survey and conclusion:
+https://docs.google.com/presentation/d/1W4oCOm-amT494IX9WIZP44NkzF3suMkARRlZCYl4k-w/edit?slide=id.p#slide=id.p
+
 
 # Vibe coding Lunch and Learn 
 A guided discussion activity on rigor and reproducibility when using AI-generated code and instructions.
