@@ -42,7 +42,7 @@ Sources:
    > I have a file from Kaggle that I want to download. It is available at:  
    > [https://www.kaggle.com/code/youssefabdelghfar/top-hits-spotify-from-2000-2019/input](https://www.kaggle.com/code/youssefabdelghfar/top-hits-spotify-from-2000-2019/input)  
    >
-   > I want to read it into a Google Colab notebook. Can you give me directions?
+   > I want to read it into a Google Colab notebook and make a histogram of the column duration_ms.  Can you give me directions?
 
 ## III. Follow and Evaluate the AI Directions
 
