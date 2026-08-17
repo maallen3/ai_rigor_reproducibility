@@ -6,7 +6,7 @@ https://docs.google.com/spreadsheets/d/12bCbFJhs6xHFkpLjGBL1d-w7NDZ5C6EDzlGOBZ5W
 
 # Vibe coding Lunch and Learn 
 A guided discussion activity on rigor and reproducibility when using AI-generated code and instructions.
-Author: Mary Allen and AI
+Author: Mary Allen and AI (perplexityai) plus these great documents
 Sources: 
 1. https://www.educatorstechnology.com/wp-content/uploads/2026/04/critical-thinking-activities-for-the-age-of-AI.pdf?fbclid=IwY2xjawS7HQpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6GrldgpJUPgB9nMG9_NPxPUkRSfke7x0GGrfEIDy5nBpcmvNjtC9GmOchPSw_aem_n1CbWRO09Wl-KN1xypObUA
 2. https://medkharbach.com/wp-content/uploads/2026/01/What-AI-Literate-Students-Do-Diferently.pdf
