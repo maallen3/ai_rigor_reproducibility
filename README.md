@@ -6,7 +6,15 @@ Sources:
 1. https://www.educatorstechnology.com/wp-content/uploads/2026/04/critical-thinking-activities-for-the-age-of-AI.pdf?fbclid=IwY2xjawS7HQpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR6GrldgpJUPgB9nMG9_NPxPUkRSfke7x0GGrfEIDy5nBpcmvNjtC9GmOchPSw_aem_n1CbWRO09Wl-KN1xypObUA
 2. https://medkharbach.com/wp-content/uploads/2026/01/What-AI-Literate-Students-Do-Diferently.pdf
 
-## I. Set Up a Google Colab Notebook
+
+## I. Grade AI (from source 1 above)
+1. Ask AI (ChatGPT or relative) a substantive question in your field of expertise.
+2. Do NOT accept the first answer. Ask: 'What evidence supports this?'
+3. Follow up with: 'What assumptions underlie this answer?'
+4. Then ask: 'What perspectives or counterarguments are missing?'
+5. Document how the AI's response evolves through each round of questioning.
+
+## II. Set Up a Google Colab Notebook
 
 1. Go to [Google Colab](https://colab.research.google.com/).
 
@@ -20,7 +28,7 @@ Sources:
    AIexample.ipynb
    ```
 
-## II. Ask an AI Assistant for Directions
+## III. Ask an AI Assistant for Directions
 
 1. Go to [DeepAI Code Chat](https://deepai.org/chat/ai-code) or your favorite chat bot. (All CU students have chatgpt for free.) 
 
